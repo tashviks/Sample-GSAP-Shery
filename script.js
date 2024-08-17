@@ -25,7 +25,7 @@ Shery.imageEffect("#back", {
     noise_scale: { value: 10, range: [0, 100] },
   },
   gooey: true,
-  debug: false,
+  debug: true,
 });
 
 
